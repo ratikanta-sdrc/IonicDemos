@@ -1,0 +1,40 @@
+[
+	{
+		"name":"Ratikanta Prdhan", 
+		"shortname":"Kunal",
+		"reknown":"Ionic developer",
+		"bio":"Completed Intigrated M.Sc in Electronics and Telecommunication from BJB Autonumous college. He likes to do code. He has completed his college degree in the year 2012. In the perticular year, he went to Hyderabad to study code/java"
+	},
+	{
+		"name":"Rohit Pattnaik", 
+		"shortname":"Rohit",
+		"reknown":"Spring developer",
+		"bio":"He has completed his B.Tech from ITR College, Good in Coding, He do Java code, He likes to do Spring code."
+	},
+	{
+		"name":"Sourav Jena", 
+		"shortname":"Sourav",
+		"reknown":"Spring developer",
+		"bio":"Completed B.Tech from I dont know from where, always wanted to go to the root."
+	},
+	{
+		"name":"Raj Rishi Mitra", 
+		"shortname":"Rishi",
+		"reknown":"Animator",
+		"bio":"He does animation"
+	},
+	{
+		"name":"Harekrishna Panigrahi", 
+		"shortname":"Rakesh",
+		"reknown":"Spring developer",
+		"bio":"He develop Spring applications"
+	},
+	{
+		"name":"Sarita Panigrahi", 
+		"shortname":"Thaka",
+		"reknown":"Spring developer",
+		"bio":"develop Spring applications"
+	}
+
+
+]
